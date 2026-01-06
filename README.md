@@ -104,16 +104,6 @@ A **secure, end-to-end encrypted** group chat built with **Node.js**, **Express*
 5. **Temporary Chat History:**  
    The server stores chat messages in memory for 10 minutes. When a new client connects, they receive this history so they can see recent messages.
 
----
-
-## Author
-
-**Abhinav Saurabh**
-
-- **LinkedIn:** [Abhinav Saurabh](https://www.linkedin.com/in/abhinavsaurabh2/)
-- **Email:** [abhinav20127@iiitd.ac.in](mailto:abhinav20127@iiitd.ac.in)
-
----
 
 ## Contributing
 
